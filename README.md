@@ -75,8 +75,9 @@ A cheerful AI companion powered by **Gemini 3 Flash**.
 
 ---
 
-## 💎 Credits & Support
-Made with 💜 for the **TinkHerHack 2025** hackathon. 
+##  Credits & Support
+Collaborators: Aswini KS and Merin 
+Event: **TinkHerHack 2025** hackathon. 
 
 ---
-*“Because every child deserves a little magic, even in a hospital bed.”* ✨
+*“Because every child deserves a little magic, even in a hospital bed.”* 
