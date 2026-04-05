@@ -76,7 +76,9 @@ A cheerful AI companion powered by **Gemini 3 Flash**.
 ---
 
 ##  Credits & Support
-Collaborators: Aswini KS and Merin 
+Collaborators: Aswini KS and Merin PR
+
+
 Event: **TinkHerHack 2025** hackathon. 
 
 ---
